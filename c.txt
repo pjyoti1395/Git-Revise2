@@ -1,5 +1,8 @@
 visual studio code for git 
-linux 
+linux / unix
+github 
 git 
 puppet
 ansible 
+terraform  
+jenkins
