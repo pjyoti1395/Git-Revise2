@@ -1,3 +1,5 @@
 visual studio code for git 
 linux 
 git 
+puppet
+ansible 
