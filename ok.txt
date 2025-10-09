@@ -1,0 +1,3 @@
+this is ok.txt
+this  is not ohk.. 
+this is git revision.
