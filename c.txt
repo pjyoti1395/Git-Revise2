@@ -2,5 +2,5 @@ visual studio code for git
 linux / unix
 github 
 git 
-terraform 
+terraform  
 jenkins
