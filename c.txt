@@ -1,3 +1,6 @@
 visual studio code for git 
-linux 
+linux / unix
+github 
 git 
+terraform 
+jenkins
