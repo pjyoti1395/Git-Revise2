@@ -1,7 +1,4 @@
 this is merge.txt
 this is demo section going on 
-<<<<<<< HEAD
 tiger  on the show
-=======
 queen of her own kingdom
->>>>>>> fast-forward-3-way-merge
