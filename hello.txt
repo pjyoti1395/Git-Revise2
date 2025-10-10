@@ -4,3 +4,4 @@ this is for devops and git  revision
 Hello /Jyoti Panigrahi / git user is - pjyoti1395
 
 merge_scenario branch text
+ life just happens!!
