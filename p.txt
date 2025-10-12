@@ -3,4 +3,5 @@ Hello some data added on main
 A new line added in rebase-demo branch
 Change is mandatory
 commit 1 on main branch 
+commit 2 on main branch 
 
